@@ -34,6 +34,13 @@ def logout():
     logout_user()
     return redirect(url_for('auth.login'))
 
+@auth.route('/contact-us')
+# @login_required
+def contact():
+    # logout_user()
+    # return redirect(url_for('auth.contact-us'))
+    return render_template("contact-us.html")
+
 
 @auth.route('/sign-up', methods=['GET', 'POST'])
 def sign_up():
