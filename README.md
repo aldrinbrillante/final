@@ -1,6 +1,6 @@
 # Shopping Cart List via Python
 
-Click [here](ttps://youtu.be/8WGZMQOsn5s) to go to my Visual Video Presentation - https://youtu.be/8WGZMQOsn5s
+[Click here to go to my Visual Video Presentation](https://youtu.be/8WGZMQOsn5s) - https://youtu.be/8WGZMQOsn5s
 
 ## Setup & Installtion
 
